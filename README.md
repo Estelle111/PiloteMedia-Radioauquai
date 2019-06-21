@@ -3,9 +3,6 @@ Ce projet est le fruit d'une collaboration entre Becode et PiloteMedia.
 Nous avons ici produit un prototype de site dont le but est de réunir 3 pans de la population du quartier nord.
 Ce site est composé d'une partie podcast, d'un agenda des events du quartier ainsi que d'une partie communautaire.
 
-# Printscreen : 
-![printscreen](//)
-
 # Membres de la team + pseudo GitHub
 * François Massart : @frmassar
 * Amalia Rodríguez : @Amaliarvm
